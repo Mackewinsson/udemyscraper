@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "docxtemplater": "^3.17.9",
+    "docxtemplater": "^3.31.4",
     "pizzip": "^3.0.6",
     "request": "^2.88.2",
     "request-promise": "^4.2.5"
